@@ -1,4 +1,4 @@
-learn-scala
+learn-to-code
 ===========
 
-Self learn in Scala programming
+Self learn in programming
